@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0b0b14;
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background: #111;
+  padding: 15px;
+}
+
+.navbar a {
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.container {
+  padding: 20px;
+}
+
+.card {
+  background: #16162f;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 10px;
+}
