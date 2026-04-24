@@ -5,6 +5,7 @@ export default function Anime() {
     return (
         <div>
             <h1>Anime</h1>
+            
             {animePosts.map((post, i) => (
                 <Card key={i} {...post} />
             ))}

@@ -6,6 +6,7 @@ export const animePosts = [
     {
         title: "Where to Watch Anime",
         description: "Best legal streaming platforms.",
+        
     },
 ];
 
